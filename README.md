@@ -19,11 +19,15 @@ This report is to aid investors in deciding to fund a similar project in Des Moi
 ## Results:
 [Average Ride Duration](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 The bike sharing service in NYC is very popular. In the month of August, 2019 alone there were 2,344,224 rides logged on Citi Bike bicycles. Most rides only last 5 minues between stations, however there were longer and longer average rides that numbered into the tens of thousands. For example, 66,769 rides lasted 15 minutes, and 21,346 lasted 30 minutes.<br />
-![<img width="450" alt="CheckoutTimes" src="https://user-images.githubusercontent.com/84740997/133910624-3f87d3f8-97b4-4cf2-95d6-0989072e8597.png">
+<img width="450" alt="CheckoutTimes" src="https://user-images.githubusercontent.com/84740997/133910624-3f87d3f8-97b4-4cf2-95d6-0989072e8597.png">
 
-[Average Ride Duration by Gender](https://public.tableau.com/shared/R9GCGD3BQ?:display_count=n&:origin=viz_share_link) To further inspect how genders use this service, we can have a look here. The majority of bike share customer are Male by better than a 3 to 1 ratio when compared to Female usage.<br />
-![<img width="450" alt="CheckoutTimesByGender" src="https://user-images.githubusercontent.com/84740997/133910758-c05e16d7-40b9-4d98-bd22-a3aa38c6aed1.png">
+[Average Ride Duration by Gender](https://public.tableau.com/shared/R9GCGD3BQ?:display_count=n&:origin=viz_share_link)
+To inspect how genders use this service, we can have a look here. The majority of bike share customer are Male by better than a 3 to 1 ratio when compared to Female usage.<br />
+<img width="450" alt="CheckoutTimesByGender" src="https://user-images.githubusercontent.com/84740997/133910758-c05e16d7-40b9-4d98-bd22-a3aa38c6aed1.png">
 
+[Trips by Weekday and Hour](https://public.tableau.com/shared/8Z5W3DRKD?:display_count=n&:origin=viz_share_link)
+Considering highest usage times, predictably work commuting hours of Monday - Friday 7AM to 9AM and 5PM to 7PM are most active with steady usage throughout the daylight hours on Friday, Saturday, and Sunday.
+<img width="450" alt="TripsWeekdayHour" src="https://user-images.githubusercontent.com/84740997/133910876-2cbaa081-97cc-4a2b-be7e-aa6798c474b5.png">
 
 
 Summary:
