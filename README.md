@@ -26,9 +26,16 @@ To inspect how genders use this service, we can have a look here. The majority o
 <img width="450" alt="CheckoutTimesByGender" src="https://user-images.githubusercontent.com/84740997/133910758-c05e16d7-40b9-4d98-bd22-a3aa38c6aed1.png">
 
 [Trips by Weekday and Hour](https://public.tableau.com/shared/8Z5W3DRKD?:display_count=n&:origin=viz_share_link)
-Considering highest usage times, predictably work commuting hours of Monday - Friday 7AM to 9AM and 5PM to 7PM are most active with steady usage throughout the daylight hours on Friday, Saturday, and Sunday.
+Considering highest usage times, predictably work commuting hours of Monday - Friday 7AM to 9AM and 5PM to 7PM are most active with steady usage throughout the daylight hours on Friday, Saturday, and Sunday.<br />
 <img width="450" alt="TripsWeekdayHour" src="https://user-images.githubusercontent.com/84740997/133910876-2cbaa081-97cc-4a2b-be7e-aa6798c474b5.png">
 
+[Trips By Weekday and Hour by Gender](https://public.tableau.com/shared/4TXWKSSWF?:display_count=n&:origin=viz_share_link)
+When opening the weekday and hour usage, again you will see here that Male usage of the service is predominant. However, usage times and days are similar -- and nearly identical on weekends.<br />
+<img width="900" alt="TripsByGenderWeekdayHour" src="https://user-images.githubusercontent.com/84740997/133911058-07435dae-7d8e-4e38-97aa-543905f79570.png">
+
+[Usage per day by Gender and Customer Type](https://public.tableau.com/shared/H7YKYB2P3?:display_count=n&:origin=viz_share_link)
+Subscriber customer types show a strong usage, indicating that use by the local population is very popular. This will make for a cleaner, healthier, and fitter where bikesharing is provided. It would be a consideration for young professionals when selecting a new residence. This can be the catalyst or feature of an emerging alternative fuel movement for Des Moines.<br />
+<img width="300" alt="TripsByGenderWeekday" src="https://user-images.githubusercontent.com/84740997/133911064-758c356d-5f92-43c6-9ede-0a2936866d9c.png">
 
 Summary:
 
