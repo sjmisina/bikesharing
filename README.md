@@ -41,6 +41,8 @@ Subscriber customer types show a strong usage, indicating that use by the local 
 Taking into consideration ages 18 to 75, usage trends downward as folks age -- but doesn't ever stop! An average 10-15 minutes is seen well into the customer's 70's. There seems to be an anomoly for people aged 52; however with this data set, we can assume it would fall into a more average time frame of 14-15 minutes.<br />
 <img width="1106" alt="AverageTripDurationByAge" src="https://user-images.githubusercontent.com/84740997/133911220-14c71b69-c474-4b6c-923f-e60f9908eb9f.png">
 
+[Bike Utilization](https://public.tableau.com/shared/WKXB88SFN?:display_count=n&:origin=viz_share_link)
+Use of individual bicycles is very well spread out over the month. There are individual bikes that are used more than others, however usage is generally evenly allocated. This will mean less downtime for your fleet and should be featured as being highly reliable.
 
 
 ## Summary:
