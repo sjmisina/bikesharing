@@ -33,10 +33,16 @@ Considering highest usage times, predictably work commuting hours of Monday - Fr
 When opening the weekday and hour usage, again you will see here that Male usage of the service is predominant. However, usage times and days are similar -- and nearly identical on weekends.<br />
 <img width="900" alt="TripsByGenderWeekdayHour" src="https://user-images.githubusercontent.com/84740997/133911058-07435dae-7d8e-4e38-97aa-543905f79570.png">
 
-[Usage per day by Gender and Customer Type](https://public.tableau.com/shared/H7YKYB2P3?:display_count=n&:origin=viz_share_link)
-Subscriber customer types show a strong usage, indicating that use by the local population is very popular. This will make for a cleaner, healthier, and fitter where bikesharing is provided. It would be a consideration for young professionals when selecting a new residence. This can be the catalyst or feature of an emerging alternative fuel movement for Des Moines.<br />
+[Usage per day by Gender, Weekday, and Customer Type](https://public.tableau.com/shared/H7YKYB2P3?:display_count=n&:origin=viz_share_link)
+Subscriber customer types show a strong usage, indicating that use by the local population is popular. This will make for a cleaner, healthier, and fitter where bikesharing is provided. It would be a consideration for young professionals when selecting a new residence. This can be the catalyst or feature of an emerging alternative fuel movement for Des Moines.<br />
 <img width="300" alt="TripsByGenderWeekday" src="https://user-images.githubusercontent.com/84740997/133911064-758c356d-5f92-43c6-9ede-0a2936866d9c.png">
 
-Summary:
+[Average Trip Time by Age](https://public.tableau.com/shared/NPRWT23M8?:display_count=n&:origin=viz_share_link)
+Taking into consideration ages 18 to 75, usage trends downward as folks age -- but doesn't ever stop! An average 10-15 minutes is seen well into the customer's 70's. There seems to be an anomoly for people aged 52; however with this data set, we can assume it would fall into a more average time frame of 14-15 minutes.<br />
+<img width="1106" alt="AverageTripDurationByAge" src="https://user-images.githubusercontent.com/84740997/133911220-14c71b69-c474-4b6c-923f-e60f9908eb9f.png">
+
+
+
+## Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
