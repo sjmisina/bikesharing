@@ -14,13 +14,12 @@ Software employed:<br />
 Tableau Public Online publish site: [link to dashboard](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
 
 ## Overview of statistical analysis
+This report is to aid investors in deciding to fund a similar project in Des Moines. We will take a look at average a number of critical data points including anticipated bicycle usage, anticipated rider profiles, usage hours, and more. August 2019 in Manhattan provides a good sample size and transparent data set.
 
+## Results:
+[Average Ride Duration](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+The bike sharing service in NYC is very popular. In the month of August, 2019 alone there were 2,344,224 rides logged on Citi Bike bicycles. Most rides only lasted 5 minues between stations, however there were longer and longer average rides that numbered into the thousands. For example, 66,769 rides lasted 15 minutes, and 21,346 lasted 30 minutes.
 
-The purpose of the analysis is well defined. (5 pt)
-Results:
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
 Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
