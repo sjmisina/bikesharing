@@ -1,7 +1,7 @@
 # Bikesharing Feasibility Analysis
 #### Bikesharing in Des Moines Iowa based on model used in Manhattan, New York
 
-Data analized is provided by New York Citi Bike data: https://www.citibikenyc.com/system-data
+Data analized is provided by New York Citi Bike data: https://www.citibikenyc.com/system-data<br />
 Analysis is of the month of August, 2019 (201908-citibike-tripdata.csv) - over 2,000,000 records
 
 Software used:  ETL - Python 3.8, Jupyter Notebook 6.4.1
