@@ -4,8 +4,9 @@
 Data analized is provided by New York Citi Bike data: https://www.citibikenyc.com/system-data<br />
 Analysis is of the month of August, 2019 (201908-citibike-tripdata.csv) - over 2,000,000 records
 
-Software used:  ETL - Python 3.8, Jupyter Notebook 6.4.1<br />
-                Data Visualization - Tableau Public 2021.3.0(20213.21.0822.2038) 64 bit version
+Software employed:<br />
+<i>ETL - Python 3.8, Jupyter Notebook 6.4.1</i><br />
+<i>Data Visualization - Tableau Public 2021.3.0(20213.21.0822.2038) 64 bit version</i>
 
 ## Overview of statistical analysis
 
