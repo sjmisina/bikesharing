@@ -5,7 +5,7 @@ Analyst:
 Stan Misina, Columbia University
 
 Data provided by CitiBike System of New York City: https://www.citibikenyc.com/system-data<br />
-Analysis is on the complete dataset captured in August, 2019 (201908-citibike-tripdata.csv) - **<i>2,344,224 rides</i>**
+Analysis is on the complete dataset captured for August, 2019 (201908-citibike-tripdata.csv) - **<i>2,344,224 rides</i>**
 
 Software employed:<br />
 <i>ETL - Python 3.8, Jupyter Notebook 6.4.1</i><br />
@@ -18,7 +18,6 @@ Published online at Tableau Public: [link to dashboard](https://public.tableau.c
 This report is a reference for investors when consideration of funding a similar project in Des Moines. We will take a look at average a number of critical data points including anticipated bicycle usage, anticipated rider profiles, usage hours, and more. August 2019 in Manhattan provides a good sample size and transparent data set of a major metropolitan area in a popular time of year.
 
 
-<<<<<<< HEAD
 ## Results:
 [Average Ride Duration](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 The bike sharing service in NYC is very popular. In the month of August, 2019 alone there were 2,344,224 rides logged on Citi Bike bicycles. Most rides only last 5 minues between stations, however there were longer and longer average rides that numbered into the tens of thousands. For example, 66,769 rides lasted 15 minutes, and 21,346 lasted 30 minutes.<br />
