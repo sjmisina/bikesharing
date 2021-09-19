@@ -11,7 +11,7 @@ Software employed:<br />
 <i>ETL - Python 3.8, Jupyter Notebook 6.4.1</i><br />
 <i>Data Visualization - Tableau Public 2021.3.0(20213.21.0822.2038) 64 bit version</i>
 
-Published online on Tableau Public: [link to dashboard](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
+Published online at Tableau Public: [link to dashboard](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
 
 
 ## Overview of statistical analysis
@@ -41,10 +41,11 @@ Subscriber customer types show a strong usage, indicating that use by the local 
 
 [Average Trip Time by Age](https://public.tableau.com/shared/NPRWT23M8?:display_count=n&:origin=viz_share_link)
 Taking into consideration ages 18 to 75, usage trends downward as folks age -- but doesn't ever stop! An average 10-15 minutes is seen well into the customer's 70's. There seems to be an anomoly for people aged 52; however with this data set, we can assume it would fall into a more average time frame of 14-15 minutes.<br />
-<img width="1106" alt="AverageTripDurationByAge" src="https://user-images.githubusercontent.com/84740997/133911220-14c71b69-c474-4b6c-923f-e60f9908eb9f.png">
+<img width="600" alt="AverageTripDurationByAge" src="https://user-images.githubusercontent.com/84740997/133911220-14c71b69-c474-4b6c-923f-e60f9908eb9f.png">
 
 [Bike Utilization](https://public.tableau.com/shared/WKXB88SFN?:display_count=n&:origin=viz_share_link)
 Use of individual bicycles is very well spread out over the month. There are individual bikes that are used more than others, however usage is generally evenly allocated. This will mean less downtime for your fleet and should be featured as being highly reliable.
+<img width="600" alt="BikeUtilization" src="https://user-images.githubusercontent.com/84740997/133911473-f98f1342-a146-4a1d-bc58-fabae85a71dc.png">
 
 
 ## Summary:
