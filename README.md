@@ -4,7 +4,7 @@
 Analyst:
 Stan Misina, Columbia University
 
-Data provided by New York Citi Bike System data: https://www.citibikenyc.com/system-data<br />
+Data provided by CitiBike System of New York City: https://www.citibikenyc.com/system-data<br />
 Analysis is of the dataset captured for the month of August, 2019 (201908-citibike-tripdata.csv) - **<i>2,344,224 rides</i>**
 
 Software employed:<br />
@@ -47,4 +47,3 @@ Use of individual bicycles is very well spread out over the month. There are ind
 
 ## Summary:
 Bike sharing is a popular means of getting around in a city. Locals can use it for commuting to work and attending attractions as a healthy alternative to buses and trains. This helps alleviate public transportation, cars off of congested roads, promotes excercise, and well being. As men are the predominant users of bike sharing, advertising can be targeted at men -- however, women consistently use the service -- especially on weekends. Taking a second look at the Manhattan model, I would recommend comparing another month (e.g., June 2019) and a YTD comparison (September 2018 to August 2019) to consider samples from other times of year, or how the service is used year-round.
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt) look at another month, and look at year to date.
