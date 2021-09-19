@@ -76,12 +76,7 @@ Use of individual bicycles is very well spread out over the month. There are ind
 <img width="600" alt="BikeUtilization" src="https://user-images.githubusercontent.com/84740997/133911473-f98f1342-a146-4a1d-bc58-fabae85a71dc.png">
 
 
-<<<<<<< HEAD
-## Summary:
-Bike sharing is a popular means of getting around in a city. Locals can use it for commuting to work and attending attractions as a healthy alternative to buses and trains. This helps alleviate public transportation, cars off of congested roads, promotes excercise, and well being. As men are the predominant users of bike sharing, advertising can be targeted at men -- however, women consistently use the service -- especially on weekends. Taking a second look at the Manhattan model, I would recommend comparing another month (e.g., June 2019) and a YTD comparison (September 2018 to August 2019) to consider samples from other times of year, or how the service is used year-round.
-=======
 ## Summary
-Bike sharing is a popular means of getting around in a city. Locals can use it for commuting to work and attending attractions as a healthy alternative to buses and trains. This helps alleviate public transportation, remove cars from congested roads, promotes excercise, and well being. As men are the predominant users of bike sharing, initial advertising can be targeted at men -- however, women consistently use the service as well -- especially on weekends. Taking a second look at the Manhattan model, I would recommend comparing another month (e.g., June 2019) and a YTD comparison (September 2018 to August 2019) to consider samples from other times of year, or how the service is used year-round.  
+Bike sharing is a popular means of getting around in a city. Locals can use it for commuting to work and attending attractions as a healthy alternative to buses and trains. Visitors will be excited to use a way to get around AND get some exercise. Byproducts of bikesharing is helping to alleviate crowded public transportation, remove cars from congested roads, promotes excercise, and well being. As men are the predominant users of bike sharing, initial marketing dollars should be targeted to men -- however, women consistently use the service as well -- especially on weekends. Taking a second look at the Manhattan model, I would recommend comparing another month (e.g., June 2019) and a YTD comparison (September 2018 to August 2019) to consider samples from other times of year, or how the service is used year-round.  
 
-Since CitiBike is transparent with customer data measures, a multi year lookback is possible, and would be valuable as well.
->>>>>>> e8262bd51f126d93c98cfa126580c115a24055f7
+Since CitiBike is transparent with customer data measures, a multi year lookback analysis is possible, and would be valuable as well.
