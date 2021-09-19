@@ -36,7 +36,7 @@ When opening the weekday and hour usage, again you will see here that Male usage
 <img width="900" alt="TripsByGenderWeekdayHour" src="https://user-images.githubusercontent.com/84740997/133911058-07435dae-7d8e-4e38-97aa-543905f79570.png">
 
 [Usage per day by Gender, Weekday, and Customer Type](https://public.tableau.com/shared/H7YKYB2P3?:display_count=n&:origin=viz_share_link)
-Subscriber customer types show a strong usage, indicating that use by the local population is popular. This will make for a cleaner, healthier, and fitter where bikesharing is provided. It would be a consideration for young professionals when selecting a new residence. This can be the catalyst or feature of an emerging alternative fuel movement for Des Moines.<br />
+Subscriber customer types show a strong usage, indicating that use by the local population is popular. This will make for a cleaner, healthier, and fitter environment where bikesharing is provided. It would be a consideration for young professionals when selecting a new residence. This can be the catalyst or feature of an emerging alternative fuel movement for Des Moines.<br />
 <img width="300" alt="TripsByGenderWeekday" src="https://user-images.githubusercontent.com/84740997/133911064-758c356d-5f92-43c6-9ede-0a2936866d9c.png">
 
 [Average Trip Time by Age](https://public.tableau.com/shared/NPRWT23M8?:display_count=n&:origin=viz_share_link)
