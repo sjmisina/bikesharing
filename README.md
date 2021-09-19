@@ -11,10 +11,12 @@ Software employed:<br />
 <i>ETL - Python 3.8, Jupyter Notebook 6.4.1</i><br />
 <i>Data Visualization - Tableau Public 2021.3.0(20213.21.0822.2038) 64 bit version</i>
 
-Tableau Public Online publish site: [link to dashboard](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
+Published online on Tableau Public: [link to dashboard](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
+
 
 ## Overview of statistical analysis
 This report is a reference for investors when consideration of funding a similar project in Des Moines. We will take a look at average a number of critical data points including anticipated bicycle usage, anticipated rider profiles, usage hours, and more. August 2019 in Manhattan provides a good sample size and transparent data set of a major metropolitan area in a popular time of year.
+
 
 ## Results:
 [Average Ride Duration](https://public.tableau.com/views/TableauChallenge_16317440220100/BikesharingAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
