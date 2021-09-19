@@ -1,5 +1,5 @@
 # Bikesharing Feasibility Analysis
-#### Bikesharing in Des Moines, Iowa: as inspired by model deployed in Manhattan, New York
+#### Potential of bikesharing in Des Moines, Iowa: as inspired by CitiBike model deployed in Manhattan, New York
 
 Analyst:
 Stan Misina, Columbia University
