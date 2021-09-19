@@ -5,7 +5,7 @@ Analyst:
 Stan Misina, Columbia University
 
 Data provided by CitiBike System of New York City: https://www.citibikenyc.com/system-data<br />
-Analysis is of the dataset captured for the month of August, 2019 (201908-citibike-tripdata.csv) - **<i>2,344,224 rides</i>**
+Analysis is on the complete dataset captured in August, 2019 (201908-citibike-tripdata.csv) - **<i>2,344,224 rides</i>**
 
 Software employed:<br />
 <i>ETL - Python 3.8, Jupyter Notebook 6.4.1</i><br />
